@@ -1,7 +1,11 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">AITU</string>
     <string name="app_name2">Сhoose one of your favorite universities</string>
     <string name="app_name3">IITU</string>
     <string name="app_name4">KBTU</string>
 
+=======
+    <string name="app_name">First App</string>
+>>>>>>> 2f91e17857854ae3804196a59a136ae864e3a5a7
 </resources>

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Base.Theme.LearnDesign" parent="Theme.Material3.DayNight.NoActionBar">
@@ -6,4 +7,9 @@
     </style>
 
     <style name="Theme.LearnDesign" parent="Base.Theme.LearnDesign" />
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.FirstApp" parent="android:Theme.Material.Light.NoActionBar" />
+>>>>>>> 2f91e17857854ae3804196a59a136ae864e3a5a7
 </resources>
